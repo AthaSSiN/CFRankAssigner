@@ -1,4 +1,4 @@
-# CFRankAssigner
+# CFScoreAssigner
 
 ranksToScore.py is a program that takes in a CSV file containing a Rankwise list containing ranks of a given roll number in  a CF competition and assigns a score to the roll number using the GP 100 score list.
 
